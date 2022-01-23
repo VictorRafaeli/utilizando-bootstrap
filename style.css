@@ -1,0 +1,29 @@
+.navbar{
+    background-color: #058bc0;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: aliceblue;
+}
+
+#quemsomos, #servicos{
+    background-color: #ececec;
+}
+
+#servicos img{
+    height: 200px;
+}
+
+section{
+    padding: 20px 20px;
+}
+
+footer{
+    background-color: #058bc0;
+    color: aliceblue;
+}
+
+footer p{
+    margin: 0;
+    padding: 20px;
+}
